@@ -1,7 +1,7 @@
 
-.idea
+
 .*iml# IntelliJ IDEA ###
-out/
+
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
@@ -11,8 +11,8 @@ out/
 
 ## IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+
+
 
 
 ### Eclipse ###
